@@ -1,0 +1,38 @@
+{
+	"save_ns": "sn_sample",
+	"window": {
+		"width": 750,
+		"height": 500
+	},
+	"book": {
+		"title": "シンプルテンプレ",
+		"creator": "ふぁみべぇ",
+		"cre_url": "",
+		"publisher": "電子演劇部",
+		"pub_url": "https://famibee.blog.fc2.com/",
+		"detail": "SKYNovel simple sample project",
+		"version": "1.0.0"
+	},
+	"log": {
+		"max_len": 64
+	},
+	"init": {
+		"bg_color": "#000000",
+		"tagch_msecwait": 10,
+		"auto_msecpagewait": 3500,
+		"escape": ""
+	},
+	"debug": {
+		"devtool": false,
+		"dumpHtm": false,
+		"token": false,
+		"tag": false,
+		"putCh": false,
+		"debugLog": false,
+		"baseTx": false,
+		"masume": false,
+		"variable": false
+	},
+	"code": {},
+	"debuger_token": "3ecf5908-cb18-463c-ab09-9b7baa562780"
+}
