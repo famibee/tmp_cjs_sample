@@ -1,5 +1,5 @@
 {
-	"save_ns": "sn_sample",
+	"save_ns": "tmp_cjs_sample",
 	"window": {
 		"width": 750,
 		"height": 500
@@ -23,7 +23,7 @@
 		"escape": ""
 	},
 	"debug": {
-		"devtool": false,
+		"devtool": true,
 		"dumpHtm": false,
 		"token": false,
 		"tag": false,
@@ -34,5 +34,5 @@
 		"variable": false
 	},
 	"code": {},
-	"debuger_token": "3ecf5908-cb18-463c-ab09-9b7baa562780"
+	"debuger_token": ""
 }

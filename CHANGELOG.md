@@ -1,5 +1,19 @@
 # Change Log
 
+## v2.13.19
+- fix(doc/app.js): アプリ版が起動しない件を修正
+- fix(doc/app.js): システムメニュー名をアプリ名になど修正
+- fix(package.json): artifactName にアプリ名を含むなど修正
+- fix: ライブラリ更新
+	- fix(package.json): electron-builder を <26.0.15 指定し固定
+	- 最新 electron-builder@26.0.20(beta) だとエラーになるため
+		- ✅ v26.0.15 ok
+		- ❌ v26.0.16 GH_TOKEN err
+		- ❌ v26.0.17 nor using env "GH_TOKEN"
+		- ❌ v26.0.18 Command failed: which python
+		- ❌ v26.0.19 Command failed: which python
+		- ❌ v26.0.20 Command failed: which python
+-fix: 【 chk_exist_tw=true】削除
 ## v2.13.18
 - fix(core/webpack.config.js): アプリ版などのビルドエラー修正
 - 既知の問題

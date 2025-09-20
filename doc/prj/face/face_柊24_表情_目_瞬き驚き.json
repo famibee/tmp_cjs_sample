@@ -1,0 +1,4123 @@
+{"frames": {
+
+"柊24_表情_目_瞬きびっくり_b0000":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0001":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0002":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0003":
+{
+	"frame": {"x":0,"y":150,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0004":
+{
+	"frame": {"x":0,"y":150,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0005":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0006":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0007":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0008":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0009":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0010":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0011":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0012":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0013":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0014":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0015":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0016":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0017":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0018":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0019":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0020":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0021":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0022":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0023":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0024":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0025":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0026":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0027":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0028":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0029":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0030":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0031":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0032":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0033":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0034":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0035":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0036":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0037":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0038":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0039":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0040":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0041":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0042":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0043":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0044":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0045":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0046":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0047":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0048":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0049":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0050":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0051":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0052":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0053":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0054":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0055":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0056":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0057":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0058":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0059":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0060":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0061":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0062":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0063":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0064":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0065":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0066":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0067":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0068":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0069":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0070":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0071":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0072":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0073":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0074":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0075":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0076":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0077":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0078":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0079":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0080":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0081":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0082":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0083":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0084":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0085":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0086":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0087":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0088":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0089":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0090":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0091":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0092":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0093":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0094":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0095":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0096":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0097":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0098":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0099":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0100":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0101":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0102":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0103":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0104":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0105":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0106":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0107":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0108":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0109":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0110":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0111":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0112":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0113":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0114":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0115":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0116":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0117":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0118":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0119":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0120":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0121":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0122":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0123":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0124":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0125":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0126":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0127":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0128":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0129":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0130":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0131":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0132":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0133":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0134":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0135":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0136":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0137":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0138":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0139":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0140":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0141":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0142":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0143":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0144":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0145":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0146":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0147":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0148":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0149":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0150":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0151":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0152":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0153":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0154":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0155":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0156":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0157":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0158":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0159":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0160":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0161":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0162":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0163":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0164":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0165":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0166":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0167":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0168":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0169":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0170":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0171":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0172":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0173":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0174":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0175":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0176":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0177":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0178":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0179":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0180":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0181":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0182":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0183":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0184":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0185":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0186":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0187":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0188":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0189":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0190":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0191":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0192":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0193":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0194":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0195":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0196":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0197":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0198":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0199":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0200":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0201":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0202":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0203":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0204":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0205":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0206":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0207":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0208":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0209":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0210":
+{
+	"frame": {"x":0,"y":150,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0211":
+{
+	"frame": {"x":0,"y":150,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0212":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0213":
+{
+	"frame": {"x":0,"y":126,"w":107,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0214":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0215":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0216":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0217":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0218":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0219":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0220":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0221":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0222":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0223":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0224":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0225":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0226":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0227":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0228":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0229":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0230":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0231":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0232":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0233":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0234":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0235":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0236":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0237":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0238":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0239":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0240":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0241":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0242":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0243":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0244":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0245":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0246":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0247":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0248":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0249":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0250":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0251":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0252":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0253":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0254":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0255":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0256":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0257":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0258":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0259":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0260":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0261":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0262":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0263":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0264":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0265":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0266":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0267":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0268":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0269":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0270":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0271":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0272":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0273":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0274":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0275":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0276":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0277":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0278":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0279":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0280":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0281":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0282":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0283":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0284":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0285":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0286":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0287":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0288":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0289":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0290":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0291":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0292":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0293":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0294":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0295":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0296":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0297":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0298":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0299":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0300":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0301":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0302":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0303":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0304":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0305":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0306":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0307":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0308":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0309":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0310":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0311":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0312":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0313":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0314":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0315":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0316":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0317":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0318":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0319":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0320":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0321":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0322":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0323":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0324":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0325":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0326":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0327":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0328":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0329":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0330":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0331":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0332":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0333":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0334":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0335":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0336":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0337":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0338":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0339":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0340":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0341":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0342":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0343":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0344":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0345":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0346":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0347":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0348":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0349":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0350":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0351":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0352":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0353":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0354":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0355":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0356":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0357":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0358":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0359":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0360":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0361":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0362":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0363":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0364":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0365":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0366":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0367":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0368":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0369":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0370":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0371":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0372":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0373":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0374":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0375":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0376":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0377":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0378":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0379":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0380":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0381":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0382":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0383":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0384":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0385":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0386":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0387":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0388":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0389":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0390":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0391":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0392":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0393":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0394":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0395":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0396":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0397":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0398":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0399":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0400":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0401":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0402":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0403":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0404":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0405":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0406":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0407":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0408":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0409":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0410":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0411":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0412":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0413":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0414":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0415":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0416":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0417":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0418":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0419":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0420":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0421":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0422":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0423":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0424":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0425":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0426":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0427":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0428":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0429":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0430":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0431":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0432":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0433":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0434":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0435":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0436":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0437":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0438":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0439":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0440":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0441":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0442":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0443":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0444":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0445":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0446":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0447":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0448":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0449":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0450":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0451":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0452":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0453":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0454":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0455":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0456":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0457":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0458":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0459":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0460":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0461":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0462":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0463":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0464":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0465":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0466":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0467":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0468":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0469":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0470":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0471":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0472":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0473":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0474":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0475":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0476":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0477":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0478":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0479":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0480":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0481":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0482":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0483":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0484":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0485":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0486":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0487":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0488":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0489":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0490":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0491":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0492":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0493":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0494":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0495":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0496":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0497":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0498":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0499":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0500":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0501":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0502":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0503":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0504":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0505":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0506":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0507":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0508":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0509":
+{
+	"frame": {"x":0,"y":84,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0510":
+{
+	"frame": {"x":0,"y":42,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0511":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0512":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+},
+"柊24_表情_目_瞬きびっくり_b0513":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":42},
+	"sourceSize": {"w":107,"h":42}
+}},
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.2.529",
+	"image": "face_柊24_表情_目_瞬きびっくり_b.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}
