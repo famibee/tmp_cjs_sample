@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.13.21
+- fix: package.json 更新
+- fix: ライブラリ更新
 ## v2.13.20
 - fix: ライブラリ更新
 ## v2.13.19
