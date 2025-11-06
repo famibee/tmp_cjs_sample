@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.13.22
+- fix: src/main/main.ts メンテ不要にする手直し
 ## v2.13.21
 - fix: package.json 更新
 - fix: ライブラリ更新

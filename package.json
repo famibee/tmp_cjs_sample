@@ -8,14 +8,16 @@
 	"appBundleId": "com.fc2.blog.famibee.skynovel.tmp_cjs_sample",
 	"appCopyright": "(c)ふぁみべぇ",
 	"author": "ふぁみべぇ",
+	"publisher": "電子演劇部",
+	"homepage": "https://famibee.blog.fc2.com/",
 	"license": "MIT",
 	"dependencies": {
-		"@famibee/skynovel": "^1.64.8",
+		"@famibee/skynovel": "^1.64.10",
 		"about-window": "^1.15.2"
 	},
 	"devDependencies": {
 		"css-loader": "^7.1.2",
-		"electron": "^39.0.0",
+		"electron": "^39.1.0",
 		"electron-builder": "^26.1.0",
 		"rimraf": "^6.1.0",
 		"style-loader": "^4.0.0",
@@ -105,6 +107,5 @@
 	"bugs": {
 		"url": "https://github.com/famibee/tmp_cjs_sample/issues",
 		"email": "famibee@gmail.com"
-	},
-	"homepage": "https://famibee.blog.fc2.com/"
+	}
 }
