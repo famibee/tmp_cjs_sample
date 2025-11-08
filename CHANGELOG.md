@@ -1,7 +1,20 @@
 # Change Log
 
+## v2.14.0
+- feat(doc/app/about-window.css): 「このアプリは……」ウインドウのデザインを調整できる css 追加
+	- 「このアプリは……」でアイコンが出るか
+		- アプリ起動
+		- パッケージ版
+	- 「このアプリは……」で css が使えるか
+		- アプリ起動
+		- パッケージ版
+- fix(doc/app.js): 「このアプリは……」ウインドウを出し->閉じ->出しで内部エラーになる件
+- fix(package.json): homepage 削除
+	- 「このアプリは……」ウインドウに表示されるので
 ## v2.13.22
-- fix: src/main/main.ts メンテ不要にする手直し
+- fix(doc/app.js): 「このアプリは……」でアイコンが出ない件
+- fix(doc/app.js): package.json から publisher を読み込むように
+- fix(package.json): publisher 項目追加
 ## v2.13.21
 - fix: package.json 更新
 - fix: ライブラリ更新
