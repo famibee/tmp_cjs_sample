@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.14.2
+- fix: ライブラリ更新（@famibee/skynovel@2.0.0）
 ## v2.14.1
 - fix: ライブラリ更新
 ## v2.14.0
